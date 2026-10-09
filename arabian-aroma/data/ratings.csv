@@ -1,0 +1,42 @@
+product,platform,listing,size,rating,rating_count,review_count,include,source_url,note
+Seduction,amazon,Seduction EDP 100ml,100ml,4.0,1615,,1,https://www.amazon.in/Arabian-Aroma-Seduction-Compliment-Seductive/dp/B0D7QB17HX,
+Seduction,amazon,Seduction EDP 5ml,5ml,4.0,1536,,0,https://www.amazon.in/Arabian-Aroma-Seduction-Compliment-Seductive/dp/B0F4RF1P5T,Excluded: Amazon shares one review pool across size variants; counting it would double-count the 100ml ratings
+Old Money,amazon,Old Money EDP 50ml,50ml,4.0,1632,,1,https://www.amazon.in/Arabian-Aroma-Old-Money-Parfum/dp/B0F8J224KP,Amazon's Choice; 2K+ bought last month
+Dark,amazon,Dark EDP 100ml,100ml,4.0,144,,1,https://www.amazon.in/Arabian-Aroma-Luxurious-Perfumes-Fragrance/dp/B0D8LCTML9,Amazon's Choice
+Royal Oud,amazon,Royal Oud EDP,100ml,3.9,142,,1,https://www.amazon.in/Arabian-Aroma-Royal-Sophistication-Impression/dp/B0D8LHCS89,
+Sovage / Sauvage,amazon,Sovage 50ml,50ml,3.9,332,,1,https://www.amazon.in/Arabian-Aroma-Freshness-Fragrance-Perfume/dp/B0D2T9RVM5,
+The Most Wanted,amazon,The Most Wanted 50ml,50ml,3.9,112,,1,https://www.amazon.in/Arabian-Aroma-Perfume-Long-Lasting-Fragrance/dp/B0G2SWHHKP,
+Noir,amazon,Noir 50ml,50ml,3.8,13,,1,https://www.amazon.in/Arabian-Aroma-Perfume-Premium-Fragrance/dp/B0D3LWR69S,
+Good Girl,amazon,Good Girl 50ml,50ml,3.8,21,,1,https://www.amazon.in/Arabian-Aroma-Perfume-Freagrance-Perfume/dp/B0D2J257BP,
+Oud Timber,amazon,Oud Timber 50ml,50ml,3.7,38,,1,https://www.amazon.in/Arabian-Aroma-Fragrance-Grapefruit-Perfume/dp/B0D2J89NHJ,
+Tamdan,amazon,Tamdan 50ml,50ml,3.2,68,,1,https://www.amazon.in/Arabian-Aroma-Aromatic-Perfumes-Fragrance/dp/B0D2J2K5VD,
+Alpha Male,amazon,Alpha Male EDP 50ml,50ml,3.9,269,,1,https://www.amazon.in/Arabian-Aroma-Alpha-Male-Parfum/dp/B0F8HX9S5R,
+Blue Ocean,amazon,Blue Ocean EDP 50ml,50ml,3.9,294,,1,https://www.amazon.in/Arabian-Aroma-Blue-Ocean-Parfum/dp/B0F8HVNZLZ,
+Seduction Ice,amazon,Seduction Ice EDP 50ml,50ml,4.0,84,,1,https://www.amazon.in/Arabian-Aroma-Seduction-Ice-Parfum/dp/B0HF6KNN3X,
+Miss Seduction,amazon,Miss Seduction EDP 50ml,50ml,3.8,41,,1,https://www.amazon.in/Arabian-Aroma-Seduction-Perfume-Parfum/dp/B0F9PW9LVG,
+Seduction,flipkart,Seduction EDP 100ml,100ml,4.2,14077,1853,1,https://www.flipkart.com/arabian-aroma-seduction-perfume-men-unique-best-seductive-fragrance-him-eau-de-parfum-100-ml/p/itm7568e33721e7c,
+Old Money,flipkart,Old Money EDP 50ml,50ml,4.2,18136,1705,1,https://www.flipkart.com/arabian-aroma-old-money-eau-de-parfum-long-lasting-perfume-man-50ml-50-ml/p/itm554b480bfee51,Star split (reviews page 17705): 10228/3976/1728/661/1112
+Alpha Male,flipkart,Alpha Male EDP 50ml,50ml,4.2,1810,164,1,https://www.flipkart.com/beauty-and-grooming/fragrances/perfume/arabian-aroma~brand/pr?sid=g9b%2C0yh%2Cjhz,
+Horizon,flipkart,Horizon EDP 100ml,100ml,4.1,534,45,1,https://www.flipkart.com/arabian-aroma-horizon-perfume-men-fresh-him-gentlemen-mature-fragrances-eau-de-parfum-100-ml/p/itma402a8340ab65,
+Royal Oud,flipkart,Royal Oud EDP 100ml,100ml,3.9,1619,175,1,https://www.flipkart.com/arabian-aroma-royal-oud-perfume-men-elegance-bold-lasting-impression-him-eau-de-parfum-100-ml/p/itmfc24148c597fe,
+Miss Seduction,flipkart,Miss Seduction EDP 50ml,50ml,4.2,169,,1,https://www.flipkart.com/arabian-aroma-miss-seduction-eau-de-parfum-long-lasting-perfume-women-50-ml/p/itmab4c32057b5eb,
+Blue Ocean,flipkart,Blue Ocean EDP 50ml,50ml,4.1,622,64,1,https://www.flipkart.com/arabian-aroma-blue-ocean-eau-de-parfum-long-lasting-fresh-scent-men-50ml-50-ml/product-reviews/itme1740993ec765?pid=PERHC6MTM7RAYQDV,Listing shows 4.1; reviews page header showed 4.6 - listing value used
+Sovage / Sauvage,flipkart,Sauvage Extrait 50ml (listing A),50ml,4.0,990,104,1,https://www.flipkart.com/arabian-aroma-sauvage-perfume-men-fresh-wild-long-lasting-fragrance-extrait-de-parfum-50-ml/p/itm14c9f465d30ea,
+Sovage / Sauvage,flipkart,Sauvage Extrait 50ml (listing B),50ml,4.1,89,3,1,https://www.flipkart.com/arabian-aroma-sauvage-perfume-men-freshness-wild-long-lasting-fragrance-extrait-de-parfum-50-ml/p/itm11147103151e0,
+Seduction Ice,flipkart,Seduction Ice 50ml,50ml,4.2,670,100,1,https://www.flipkart.com/arabian-aroma-seduction-ice-fresh-citrus-fruity-fragrance-perfume-50-ml/p/itm7240963237a25,
+Glam Magic,flipkart,Glam Magic EDP 100ml,100ml,4.2,173,,1,https://www.flipkart.com/arabian-aroma-glam-magic-perfume-women-long-lasting-floral-girls-eau-de-parfum-100-ml/p/itm8b834bcc1af3d,
+Dark,flipkart,Dark EDP 100ml,100ml,4.1,588,,1,https://www.flipkart.com/arabian-aroma-dark-men-s-perfume-luxurious-exotic-scent-perfumes-men-eau-de-parfum-100-ml/p/itma2897b02199f0,
+Blue Ocean,myntra,Blue Ocean EDP 50ml,50ml,4.3,365,,1,https://www.myntra.com/perfume/arabianaroma/arabian-aroma-men-blue-ocean-long-lasting-eau-de-parfum---50-ml/35663046/buy,
+Horizon,myntra,Horizon EDP 100ml,100ml,4.1,177,,1,https://www.myntra.com/perfume/arabianaroma/arabian-aroma-horizon-eau-de-parfum--100ml/30635397/buy,
+Dark,myntra,Dark EDP 100ml,100ml,4.2,341,,1,https://www.myntra.com/perfume/arabianaroma/arabian-aroma-men-dark-long-lasting-eau-de-parfum---100ml/30714022/buy,
+Dark,myntra,Dark EDP 5ml,5ml,4.2,40,,1,https://www.myntra.com/perfume/arabian+aroma/arabian-aroma-men-dark-long-lasting-eau-de-parfum--5-ml/37251837/buy,
+Why,myntra,"Men ""YSL Y"" EDP 50ml",50ml,4.0,211,,1,https://www.myntra.com/perfume/arabian+aroma/arabian-aroma-men-ysl-y-long-lasting-eau-de-parfum--50-ml/35348016/buy,Assumed to be the site's 'Why' (YSL Y-inspired)
+Noir,myntra,Noir EDP 50ml,50ml,3.9,10,,1,https://www.myntra.com/perfume/arabianaroma/arabian-aroma-men-noir-long-lasting-eau-de-parfume---50-ml/32208982/buy,
+Glam Magic,myntra,Glam Magic EDP 100ml,100ml,2.9,11,1,1,https://www.myntra.com/Perfume/Arabian+Aroma/Arabian-Aroma-Women-Glam-Magic-Long-Lasting-Eau-De-Parfum---100ml/30714020/buy,
+Sovage / Sauvage,myntra,Sauvage Extrait 50ml,50ml,4.1,1100,,1,https://www.myntra.com/perfume/arabian+aroma/arabian-aroma-sauvage-extrait-de-parfum---50ml/30728061/buy,Shown as 1.1k
+Wanted By Night,myntra,Wanted By Night Extrait 50ml,50ml,3.8,23,,1,https://www.myntra.com/perfume/arabianaroma/arabian-aroma-men-wanted-by-night-long-lasting-extrait-de-parfume---50-ml/32208984/buy,
+Seduction,brand_site,Signature collection widget,,4.8,,,0,https://arabianaroma.in/collections/signature-collection,Excluded: brand's own widget; no per-product count
+Royal Oud,brand_site,Signature collection widget,,4.7,,,0,https://arabianaroma.in/collections/signature-collection,Excluded: brand's own widget
+Dark,brand_site,Signature collection widget,,4.6,,,0,https://arabianaroma.in/collections/signature-collection,Excluded: brand's own widget
+Horizon,brand_site,Signature collection widget,,4.7,,,0,https://arabianaroma.in/collections/signature-collection,Excluded: brand's own widget
+Glam Magic,brand_site,Signature collection widget,,4.6,,,0,https://arabianaroma.in/collections/signature-collection,Excluded: brand's own widget

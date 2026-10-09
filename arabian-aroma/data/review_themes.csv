@@ -1,0 +1,21 @@
+product,platform,sentiment,theme,quote_or_paraphrase
+Seduction,flipkart,positive,scent/longevity,Reviewers praise the scent and lasting power
+Old Money,flipkart,positive,dupe,"Often compared to Lattafa Khamrah; ""smells exactly same as lattafa khamrah"""
+Alpha Male,flipkart,positive,longevity,Longevity 8 to 10 hrs
+Horizon,flipkart,negative,longevity/projection,NOT LONG LASTING AND PROJECTION IS NOT GOOD
+Horizon,myntra,positive,longevity/projection,Long-lasting with good projection
+Royal Oud,flipkart,negative,scent,"""Just smells like general roll on itar""; very little oud; not worth the price"
+Royal Oud,flipkart,positive,scent/longevity,Some praise scent and longevity
+Miss Seduction,flipkart,mixed,longevity,Pleasant scent but longevity weak
+Blue Ocean,flipkart,negative,longevity,Several complaints about short longevity
+Blue Ocean,myntra,mixed,scent,Strong value for price; some find it very sweet / night-winter scent
+Dark,myntra,mixed,longevity,Dark and masculine; longevity average
+Why,myntra,mixed,longevity,Good for daily wear and affordable; fades after a few hours
+Glam Magic,myntra,negative,packaging/scent,Loose spray cap and weak scent
+Sovage / Sauvage,myntra,positive,dupe,Closely resembles Dior Sauvage
+Sovage / Sauvage,flipkart,negative,longevity,"""very light and not at all long lasting"""
+Tamdan,amazon,mixed,scent/longevity,Some call it cheap-smelling and quick to fade; others like its warm lasting character
+The Most Wanted,amazon,mixed,value,Praised for longevity; some say not worth the price
+Imperial Combo,flipkart,positive,value,Good value for money
+Signature set,brand_site,positive,longevity,Single repeat customer: lasts 8-9 hours on clothes
+Rider,brand_site,mixed,quality,"Quality degraded; great for budget but a bit synthetic; stay is very less"
