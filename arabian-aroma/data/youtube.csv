@@ -1,11 +1,51 @@
-video_url,title,products,summary_from_search_snippet
-https://www.youtube.com/watch?v=2Zrrqrizx6o,"Arabian Aroma Perfume Review: Clones vs. Originals - Which to Choose?",Range,Compares Arabian Aroma clones against the designer originals
-https://m.youtube.com/watch?v=-y6bD4LxId8,Arabian Aroma Perfume Review,"Royal Oud;Horizon;Seduction;Glam Magic;Dark",Signature collection walkthrough; pitched as budget-friendly and long-lasting
-https://www.youtube.com/watch?v=1uJi1Az6l7c,Arabian Aroma Perfume Review,Range,New launches and dupes
-https://www.youtube.com/shorts/ze8hmez32Qw,Arabian Aroma Perfume Review (Short),Old Money,Says Old Money is 80-90% similar to Lattafa Khamrah; lasts ~7-8 hours
-https://www.youtube.com/watch?v=0VJO8ag4VL0,Arabian Aroma Perfume Review : Arabian Aroma Perfume,Range,
-https://www.youtube.com/watch?v=8HQizJIUwyc,Arabian Aroma Perfume Review - Royal Fragrance Under Budget!,Range,Hindi review; positions line as royal-looking and long-lasting under budget
-https://www.youtube.com/watch?v=mTpWbSr0wvM,"Before You Buy Arabian Aroma Perfumes, Watch This! (The Perfume Lab)",Range,
-https://www.youtube.com/watch?v=97XT4BBAtJg,Arabian Aroma Noir Review,Noir,Review of private blend Noir
-https://www.youtube.com/watch?v=f6DDBWHDH_A,Arabian Aroma Purple Oud Perfume Review - Projection Longevity & Smell Test,Purple Oud,Projection/longevity/smell test
-https://www.youtube.com/shorts/7JzEzyHQn1M,Seduction By Arabian Aroma Perfume (Short),Seduction,Calls it a compliment-getter favourite among men
+video_id,title,channel,language,video_type,products,compared_with,sentiment,evidence,summary_from_search
+2Zrrqrizx6o,"Arabian Aroma Perfume Review: Clones vs. Originals - Which to Choose?",,,comparison,Range,Designer originals,none,,Compares Arabian Aroma clones with the originals; verdict not in snippet
+-y6bD4LxId8,Arabian Aroma Perfume Review,,,multi,Royal Oud;Horizon;Seduction;Glam Magic;Dark,,positive,description,"Covers the Signature collection; description calls the line budget-friendly and long-lasting"
+1uJi1Az6l7c,Arabian Aroma Perfume Review,,,multi,Range;Sovage / Sauvage;Avenue,Dior Sauvage;Creed Aventus;LV Ombre Nomade;Armani Stronger With You,none,,New launches and clones of Sauvage / Aventus / Ombre Nomade / Stronger With You
+ze8hmez32Qw,Arabian Aroma Perfume Review (Short),,,comparison,Old Money,Lattafa Khamrah,positive,description,Rich fragrance that smells 80-90% like Lattafa Khamrah; lasts around 7-8 hours
+8HQizJIUwyc,Arabian Aroma Perfume Review - Royal Fragrance Under Budget!,,Hindi,multi,Range,,positive,title,Positions the line as royal-looking and long-lasting under budget
+mTpWbSr0wvM,"Before You Buy Arabian Aroma Perfumes, Watch This!",The Perfume Lab,,multi,Range,,none,,Buyer's-guide video; verdict not in snippet
+97XT4BBAtJg,Arabian Aroma Noir Review,,,single,Noir,,none,,Review of the private-blend Noir
+f6DDBWHDH_A,"Arabian Aroma Purple Oud Perfume Review - Projection, Longevity & Smell Test!",,,single,Purple Oud,,none,,Performance test; result not in snippet
+7JzEzyHQn1M,Seduction By Arabian Aroma Perfume (Short),,,single,Seduction,,positive,description,Calls it a favourite among men and a compliment-getter
+eka_J2mwnig,Arabian Aroma Old Money Perfume Review - Luxury Smell on Budget?,,,single,Old Money,,none,,Includes a long-lasting test; result not in snippet
+bxbs95_k9bY,Arabian Aroma Old Money Elixir Honest Review (Short),,Hindi,comparison,Old Money Elixir,Lattafa Khamrah Qahwa,none,,"Budget scent at Rs 300-350 with a Khamrah Qahwa-inspired sweet, warm profile; no verdict"
+9ncOcj_gFVc,Lattafa Khamrah In 300 Rs | Arabian Aroma Old Money Perfume Review,,Hindi,comparison,Old Money,Lattafa Khamrah,positive,title,Title presents Old Money as Khamrah for Rs 300
+9s0ZXnWHEjU,Arabian Aroma Old Money Aqua Review: The Khamrah Waha Clone Under Rs 500?,,,comparison,Old Money Aqua,Lattafa Khamrah Waha,none,,Asks whether Aqua is a Khamrah Waha clone
+P2KosdGe9rQ,Old Money Elixir - Just HYPE or luxury perfume?,,,single,Old Money Elixir,,none,,Hype-or-not question; verdict not in snippet
+TDlO0LhsY8k,I RANKED 11 Arabian Aroma Perfumes from WORST to BEST : Starting Rs 250,,,ranking,Range,,none,,Ranks 11 scents on longevity and compliments; order not in snippet
+SmKD7O-Fkww,Arabian Aroma Perfume Review,,,single,Seduction,,none,,Seduction as a daily-to-party men's scent
+UQpo3d4mYcQ,Arabian Aroma Perfume Review,,,multi,Range,Designer originals,negative,description,"Calls the brand a really hyped-up Indian cloning house with lots of ads; questions 95-100% clone-accuracy claims"
+yozZWv-2Bdw,Arabian Aroma Perfume Review,,,multi,Range,,none,,Tests the brand's claim of India's longest-lasting perfume (24+ hours); outcome not in snippet
+f7sJ1TMwQoo,Arabian Aroma Perfume New Release,,,multi,Glam Magic;Horizon;Dark;Royal Oud;Seduction,,none,,Launch overview of five Signature scents
+AIrZUHNO9sw,Arabian Aroma Old Money vs Lattafa Khamrah,,,comparison,Old Money,Lattafa Khamrah,none,,Head-to-head; verdict not in snippet
+1tZlXqrDp0g,Arabian Aroma Old Money Elixir vs Khamrah Qahwa - Clone Wins?,,,comparison,Old Money Elixir,Lattafa Khamrah Qahwa,none,,Head-to-head; verdict not in snippet
+7jyzHT7_CCg,Arabian Aroma Old Money Elixir Review,,,single,Old Money Elixir,,none,,No detail in snippet
+ozUElsPYjBU,Khamrah Waha vs Old Money Aqua: Don't Buy Until You Watch This,,,comparison,Old Money Aqua,Lattafa Khamrah Waha,positive,description,"Says many reviewers find Aqua smells exactly like Khamrah Waha at Rs 350 vs Rs 3,500"
+PjS_C636XqE,Did Old Money Elixir Finally Beat The OG Khamrah Qahwa?,,,comparison,Old Money Elixir,Lattafa Khamrah Qahwa,none,,Reacts to claims Elixir beat Khamrah Qahwa; own verdict not in snippet
+p8FyrT8XW3g,"Old Money Aqua, Seduction Ice By Arabian Aroma Perfume Review (Short)",,,multi,Old Money Aqua;Seduction Ice,,none,,Launch coverage
+YbReNVK-63o,Arabian Aroma Perfumes Review || Dark-Royal Oudh-Horizon,Akram Aziz,,multi,Dark;Royal Oud;Horizon,,none,,Three-scent review; verdict not in snippet
+UlI9SDw1x5c,Arabian Aroma Royal Oud Perfume Review in Hindi,,Hindi,single,Royal Oud,,none,,Title only
+2d8IswfuYBI,Arabian Aroma Dark Perfume Review in Malayalam | Budget Friendly Long Lasting Party Perfume,,Malayalam,single,Dark,,positive,title,Title calls Dark a budget-friendly long-lasting party perfume
+dg3faF1qmXU,"Horizon, Dark, Seduction",,,multi,Horizon;Dark;Seduction,,none,,Tests the three Signature scents with per-scent chapters
+6F5AXbhRnN8,"Old Money, Alpha Male, Blue Ocean: Budget Gems or Hype?",,,multi,Old Money;Alpha Male;Blue Ocean,,none,,Hype-or-not question; verdict not in snippet
+DiF3_FGBfao,"Good Perfumes Under Rs. 350 - Arabian Aroma Old Money, Alpha Male, Blue Ocean Perfume Review",,,multi,Old Money;Alpha Male;Blue Ocean,,positive,title,Title calls all three good perfumes under Rs 350
+1x4dAoz0Q2c,Arabian Aroma Blue Ocean Perfume (Short),,,single,Blue Ocean,,positive,description,"Fresh, aquatic, long-lasting"
+_2_J1-LRdC0,Arabian Aroma Alpha Male Perfume Review - Long-Lasting Luxury Scent,,,single,Alpha Male,,positive,title,Title calls it a long-lasting luxury scent
+jTHjHO6KyFM,Le Male Elixir In 300 Rs,,Hindi,comparison,Alpha Male,JPG Le Male Elixir,none,,Surfaced for Alpha Male; product mapping unconfirmed so not scored
+an9qOwLdphs,Cheapest Perfume Clones of ARABIAN AROMA,,,multi,Range,,none,,Overview of cheapest clones
+VUxFS5FGABM,Arabian Aroma Showdown: Old Money and Alpha Male - Budget Perfume (Short),,,comparison,Old Money;Alpha Male,,none,,Head-to-head; verdict not in snippet
+I06O-FVBewQ,Top 4 Best Arabian Aroma Perfumes,,,ranking,Range,,positive,title,Budget-friendly top-4 list; picks not in snippet
+ZS0_QINZbsk,Arabian Aroma Emperor Perfume Review,,,single,Emperor,,positive,description,Called the best luxury clone under Rs 500 with a surprisingly detailed note structure
+yq5Ile0mjsM,Luxury Perfume Dupes on Budget - Arabian Aroma Review,,,multi,Range,,positive,description,Says the inspired-by scents are dense and feel worth the money
+zKQ_nJYaHMM,Arabian Aroma perfume Top 3 clone of Dior Sauvage Dylan blue Allure Homme Sport very versatile,,,comparison,Sovage / Sauvage,Dior Sauvage;Versace Dylan Blue;Chanel Allure Homme Sport,positive,title,Title calls the three clones very versatile
+jQ0juMfJ4qI,"Sauvage, Terre d'Hermes, & Hawas: Are These Arabian Aroma Clones Worth It?",,,comparison,Sovage / Sauvage,Dior Sauvage;Terre d'Hermes;Rasasi Hawas,none,,Asks whether they are 1:1 clones; verdict not in snippet
+LRwMoNBRpi0,Arabian Aroma Sauvage Perfume Review! Inspired By Dior Sauvage Perfume! Best Summer Perfume!,,,comparison,Sovage / Sauvage,Dior Sauvage,positive,title,Title calls it the best summer perfume
+u0yBOaXrT2o,Arabian Aroma Glam Magic | Best Perfume For Women (Short),,,single,Glam Magic,,positive,title,"Soft, elegant, long-lasting; promotional in tone"
+cJ6MkrBQdvM,Arabian Aroma Seduction Perfume Review in Hindi,,Hindi,single,Seduction,,none,,Worth-buying question; verdict not in snippet
+yzfMJLi98f8,Arabian Aroma Perfume Review in Hindi | Best Budget Perfume Clones Under 500 in 2023,,Hindi,multi,Range,,positive,title,Best budget clones under Rs 500
+_-njRtylXYU,Arabian Aroma Purple Oud Perfume Review,,Hindi,single,Purple Oud,,negative,description,Warns it is an apparel perfume meant for clothes rather than skin
+8TAB89oCeRU,Arabian Aroma Freez Water Perfume Review,,,single,Freez Water Men,,none,,Asks if it is the best budget aquatic for summer
+KTQR6wKNRe8,Arabian Aroma Dark Perfume Review in Hindi,,Hindi,single,Dark,,none,,Title only
+CdS1kw0aUsA,Arabian Aroma Seduction Ice Review: The Rasasi Hawas Ice Clone Under Rs 500?,,,comparison,Seduction Ice,Rasasi Hawas Ice,positive,description,"Fresh, fruity, sweet, slightly aquatic; inspired by rather than an exact clone; blending and smoothness are its strongest points; no harsh alcohol opening"
+yzc41FKh130,I Tested Seduction Ice vs Hawas Ice vs Oud Al Layl Midnight Edition,,,comparison,Seduction Ice,Rasasi Hawas Ice;Oud Al Layl Midnight Edition,none,,Three-way test; verdict not in snippet
