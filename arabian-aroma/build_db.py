@@ -12,7 +12,8 @@ Marketplace score (Bayesian weighted average):
 
 YouTube score:
   4. Each video with a stated verdict gets a sentiment score (positive 4.5,
-     mixed 3.0, negative 1.5) and a weight by evidence: 1.0 when the verdict
+     mixed 3.0, negative 1.5; videos from the brand's own channel are marked
+     "promotional" and never scored) and a weight by evidence: 1.0 when the verdict
      comes from the video's description/summary, 0.5 when only the title says
      it. Videos with no verdict are stored but not scored. A multi-product
      video counts for every product it names; brand-wide ("Range") videos only
@@ -64,7 +65,8 @@ def load(conn):
             rating REAL, rating_count INTEGER, source_url TEXT);
         CREATE TABLE youtube (video_id TEXT PRIMARY KEY, url TEXT, title TEXT,
             channel TEXT, language TEXT, video_type TEXT, compared_with TEXT,
-            sentiment TEXT, evidence TEXT, score REAL, weight REAL, summary TEXT);
+            sentiment TEXT, evidence TEXT, score REAL, weight REAL, summary TEXT,
+            oembed_status TEXT);
         CREATE TABLE youtube_products (video_id TEXT, product TEXT);
         CREATE TABLE review_themes (product TEXT, platform TEXT, sentiment TEXT,
             theme TEXT, quote_or_paraphrase TEXT);
@@ -94,15 +96,14 @@ def load(conn):
     )
     for r in read("youtube.csv"):
         vid = r["video_id"]
-        url = (f"https://www.youtube.com/watch?v={vid}" if "Short" not in r["title"]
-               else f"https://www.youtube.com/shorts/{vid}")
+        url = f"https://www.youtube.com/watch?v={vid}"
         score = SENTIMENT_SCORE.get(r["sentiment"])
         weight = EVIDENCE_WEIGHT.get(r["evidence"]) if score else None
         conn.execute(
-            "INSERT INTO youtube VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",
+            "INSERT INTO youtube VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (vid, url, r["title"], r["channel"], r["language"], r["video_type"],
              r["compared_with"], r["sentiment"], r["evidence"], score, weight,
-             r["summary_from_search"]),
+             r["summary_from_search"], r["oembed_status"]),
         )
         conn.executemany("INSERT INTO youtube_products VALUES (?,?)",
                          [(vid, p.strip()) for p in r["products"].split(";")])

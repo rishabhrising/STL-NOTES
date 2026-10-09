@@ -20,9 +20,11 @@ Ranking: 80% marketplace score (platform-calibrated Bayesian average of star rat
   Ratings are the figures shown in search snippets and may be days or months old.
 - The catalog is the subset of the site that search engines had indexed. The site advertises 100+
   fragrances, so some are missing, and prices are blank where no snippet showed them.
-- YouTube entries are titles and search summaries, not transcripts. Only 20 of the 60 videos had a verdict visible
-  (18 positive, 2 negative), so the YouTube score moves the ranking only slightly. Verdicts taken from a title
-  alone get half weight.
+- YouTube: titles and channel names are verified through YouTube's oEmbed endpoint (59 of 60; one returns 401).
+  Transcripts could not be downloaded: YouTube answers this cloud container with a "confirm you're not a bot"
+  wall. Run `fetch_transcripts.py` from a home connection to fill `data/transcripts/`. Of the 60 videos, 23 have
+  a visible verdict (20 positive, 1 mixed, 2 negative). 3 videos from the brand's own channel are marked
+  `promotional` and not scored. Verdicts taken from a title alone get half weight.
 - No Arabian Aroma listings were found on Nykaa.
 - Products with fewer than ~100 ratings (Good Girl, Noir, Wanted By Night, Oud Timber, Tamdan) are
   pulled strongly toward the average, so their positions are low-confidence.
