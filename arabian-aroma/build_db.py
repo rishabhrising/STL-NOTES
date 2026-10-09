@@ -108,6 +108,11 @@ def load(conn):
                          [(vid, p.strip()) for p in r["products"].split(";")])
     conn.executemany("INSERT INTO review_themes VALUES (?,?,?,?,?)",
                      [tuple(r.values()) for r in read("review_themes.csv")])
+    conn.execute("DROP TABLE IF EXISTS transcripts")
+    conn.execute("CREATE TABLE transcripts (video_id TEXT PRIMARY KEY, text TEXT)")
+    conn.executemany("INSERT INTO transcripts VALUES (?,?)",
+                     [(p.stem, p.read_text(encoding="utf-8"))
+                      for p in sorted((DATA / "transcripts").glob("*.txt"))])
 
 
 def wmean(items):
